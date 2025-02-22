@@ -8,6 +8,11 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
+  qr: ^3.0.2
+  shelf: ^1.4.2
+  shelf_web_socket: ^3.0.0
+  watcher: ^1.1.1
+  web_socket_channel: ^3.0.2
   # path: ^1.8.0
 
 dev_dependencies:
